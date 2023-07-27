@@ -1,0 +1,44 @@
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/thaonguyen06/eda/180mcuc/dls_nand_tran.sch
+
+binary raw file "/home/thaonguyen06/eda/180mcuC/simulation/dls_nand_tran.raw"
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+No. of Data Columns : 11  
+
+Initial Transient Solution
+--------------------------
+
+Node                                   Voltage
+----                                   -------
+vdd                                        0.4
+vina                                         0
+vinb                                         0
+vout                                  0.262177
+x1.net2                                0.26262
+x1.net1                              0.0119288
+x1.net3                             0.00363009
+vin1#branch                                  0
+vin2#branch                                  0
+vdd#branch                        -9.55893e-13
+
+
+No. of Data Rows : 215
+
+Total analysis time (seconds) = 0.001748
+
+Total CPU time (seconds) = 0.082 
+
+Total DRAM available = 3753.941 MB.
+DRAM currently available = 1284.168 MB.
+Maximum ngspice program size =   19.992 MB.
+Current ngspice program size =   14.535 MB.
+
+Shared ngspice pages =    6.840 MB.
+Text (code) pages =    5.062 MB.
+Stack = 0 bytes.
+Library pages =    8.832 MB.
+
